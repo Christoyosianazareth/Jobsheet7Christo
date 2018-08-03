@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package jobsheet7;
-import java.util.Scanner
+import java.util.Scanner;
 /**
  *
  * @author GL553VD
